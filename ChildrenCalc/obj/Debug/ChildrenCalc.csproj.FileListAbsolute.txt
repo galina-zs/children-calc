@@ -1,0 +1,10 @@
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\bin\Debug\ChildrenCalc.exe.config
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\bin\Debug\ChildrenCalc.exe
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\bin\Debug\ChildrenCalc.pdb
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.csprojAssemblyReference.cache
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.StartForm.resources
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.Properties.Resources.resources
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.csproj.GenerateResource.cache
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.csproj.CoreCompileInputs.cache
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.exe
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.pdb
