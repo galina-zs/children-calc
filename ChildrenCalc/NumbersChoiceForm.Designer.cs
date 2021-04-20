@@ -43,8 +43,8 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.roundButton2 = new ChildrenCalc.RoundButton();
             this.roundButton1 = new ChildrenCalc.RoundButton();
+            this.roundButton2 = new ChildrenCalc.RoundButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
@@ -68,14 +68,13 @@
             this.panel1.Controls.Add(this.pictureBox14);
             this.panel1.Controls.Add(this.pictureBox13);
             this.panel1.Controls.Add(this.pictureBox12);
-            this.panel1.Location = new System.Drawing.Point(218, 81);
+            this.panel1.Location = new System.Drawing.Point(224, 95);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(225, 130);
             this.panel1.TabIndex = 1;
             // 
             // pictureBox14
             // 
-            this.pictureBox14.Image = global::ChildrenCalc.Properties.Resources._0;
             this.pictureBox14.Location = new System.Drawing.Point(58, 3);
             this.pictureBox14.Name = "pictureBox14";
             this.pictureBox14.Size = new System.Drawing.Size(108, 121);
@@ -101,7 +100,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::ChildrenCalc.Properties.Resources._0;
-            this.pictureBox2.Location = new System.Drawing.Point(63, 226);
+            this.pictureBox2.Location = new System.Drawing.Point(59, 248);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(108, 121);
             this.pictureBox2.TabIndex = 2;
@@ -110,16 +109,16 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ChildrenCalc.Properties.Resources.image__5_;
-            this.pictureBox1.Location = new System.Drawing.Point(48, -141);
+            this.pictureBox1.Location = new System.Drawing.Point(55, -164);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(609, 206);
+            this.pictureBox1.Size = new System.Drawing.Size(700, 235);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // pictureBox3
             // 
             this.pictureBox3.Image = global::ChildrenCalc.Properties.Resources._1;
-            this.pictureBox3.Location = new System.Drawing.Point(177, 226);
+            this.pictureBox3.Location = new System.Drawing.Point(173, 248);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(108, 121);
             this.pictureBox3.TabIndex = 3;
@@ -128,7 +127,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::ChildrenCalc.Properties.Resources._2;
-            this.pictureBox4.Location = new System.Drawing.Point(291, 226);
+            this.pictureBox4.Location = new System.Drawing.Point(287, 248);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(108, 121);
             this.pictureBox4.TabIndex = 4;
@@ -137,7 +136,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::ChildrenCalc.Properties.Resources._3;
-            this.pictureBox5.Location = new System.Drawing.Point(405, 226);
+            this.pictureBox5.Location = new System.Drawing.Point(401, 248);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(108, 121);
             this.pictureBox5.TabIndex = 5;
@@ -146,7 +145,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::ChildrenCalc.Properties.Resources._4;
-            this.pictureBox6.Location = new System.Drawing.Point(519, 226);
+            this.pictureBox6.Location = new System.Drawing.Point(515, 248);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(108, 121);
             this.pictureBox6.TabIndex = 6;
@@ -155,7 +154,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::ChildrenCalc.Properties.Resources._9;
-            this.pictureBox7.Location = new System.Drawing.Point(519, 349);
+            this.pictureBox7.Location = new System.Drawing.Point(515, 371);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(108, 121);
             this.pictureBox7.TabIndex = 11;
@@ -164,7 +163,7 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = global::ChildrenCalc.Properties.Resources._8;
-            this.pictureBox8.Location = new System.Drawing.Point(405, 349);
+            this.pictureBox8.Location = new System.Drawing.Point(401, 371);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(108, 121);
             this.pictureBox8.TabIndex = 10;
@@ -173,7 +172,7 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = global::ChildrenCalc.Properties.Resources._7;
-            this.pictureBox9.Location = new System.Drawing.Point(291, 349);
+            this.pictureBox9.Location = new System.Drawing.Point(287, 371);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(108, 121);
             this.pictureBox9.TabIndex = 9;
@@ -182,7 +181,7 @@
             // pictureBox10
             // 
             this.pictureBox10.Image = global::ChildrenCalc.Properties.Resources._6;
-            this.pictureBox10.Location = new System.Drawing.Point(177, 349);
+            this.pictureBox10.Location = new System.Drawing.Point(173, 371);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(108, 121);
             this.pictureBox10.TabIndex = 8;
@@ -191,24 +190,11 @@
             // pictureBox11
             // 
             this.pictureBox11.Image = global::ChildrenCalc.Properties.Resources._5;
-            this.pictureBox11.Location = new System.Drawing.Point(63, 349);
+            this.pictureBox11.Location = new System.Drawing.Point(59, 371);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(108, 121);
             this.pictureBox11.TabIndex = 7;
             this.pictureBox11.TabStop = false;
-            // 
-            // roundButton2
-            // 
-            this.roundButton2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(174)))), ((int)(((byte)(174)))));
-            this.roundButton2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(174)))), ((int)(((byte)(174)))));
-            this.roundButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.roundButton2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.roundButton2.Location = new System.Drawing.Point(463, 81);
-            this.roundButton2.Name = "roundButton2";
-            this.roundButton2.Rounding = 20;
-            this.roundButton2.Size = new System.Drawing.Size(85, 26);
-            this.roundButton2.TabIndex = 13;
-            this.roundButton2.Text = "ОЧИСТИТЬ";
             // 
             // roundButton1
             // 
@@ -216,18 +202,31 @@
             this.roundButton1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(174)))), ((int)(((byte)(174)))));
             this.roundButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.roundButton1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.roundButton1.Location = new System.Drawing.Point(659, 440);
+            this.roundButton1.Location = new System.Drawing.Point(655, 462);
             this.roundButton1.Name = "roundButton1";
             this.roundButton1.Size = new System.Drawing.Size(100, 30);
             this.roundButton1.TabIndex = 14;
             this.roundButton1.Text = "ДАЛЕЕ";
+            // 
+            // roundButton2
+            // 
+            this.roundButton2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(174)))), ((int)(((byte)(174)))));
+            this.roundButton2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(174)))), ((int)(((byte)(174)))));
+            this.roundButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.roundButton2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
+            this.roundButton2.Location = new System.Drawing.Point(469, 95);
+            this.roundButton2.Name = "roundButton2";
+            this.roundButton2.Rounding = 20;
+            this.roundButton2.Size = new System.Drawing.Size(85, 26);
+            this.roundButton2.TabIndex = 13;
+            this.roundButton2.Text = "ОЧИСТИТЬ";
             // 
             // GameForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(134)))), ((int)(((byte)(134)))));
-            this.ClientSize = new System.Drawing.Size(795, 486);
+            this.ClientSize = new System.Drawing.Size(795, 503);
             this.Controls.Add(this.roundButton1);
             this.Controls.Add(this.roundButton2);
             this.Controls.Add(this.pictureBox7);

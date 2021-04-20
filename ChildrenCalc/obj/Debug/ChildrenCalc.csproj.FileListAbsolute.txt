@@ -8,3 +8,6 @@ C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.csproj
 C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.csproj.CoreCompileInputs.cache
 C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.exe
 C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.pdb
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.ExampleForm.resources
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.GameForm.resources
+C:\Users\zabga\LABS\PrE\children-calc\ChildrenCalc\obj\Debug\ChildrenCalc.Statistic.resources

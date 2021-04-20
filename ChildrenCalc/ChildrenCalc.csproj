@@ -47,39 +47,57 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drawer.cs" />
+    <Compile Include="ExampleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExampleForm.Designer.cs">
+      <DependentUpon>ExampleForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="GameForm.cs">
+    <Compile Include="NumbersChoiceForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GameForm.Designer.cs">
-      <DependentUpon>GameForm.cs</DependentUpon>
+    <Compile Include="NumbersChoiceForm.Designer.cs">
+      <DependentUpon>NumbersChoiceForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="RoundButton.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Statistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistic.Designer.cs">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ExampleForm.resx">
+      <DependentUpon>ExampleForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GameForm.resx">
-      <DependentUpon>GameForm.cs</DependentUpon>
+    <EmbeddedResource Include="NumbersChoiceForm.resx">
+      <DependentUpon>NumbersChoiceForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <EmbeddedResource Include="Statistic.resx">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -143,6 +161,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="images\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ExampleImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\multi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\equal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ForMockup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\statistics.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

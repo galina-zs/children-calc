@@ -16,7 +16,7 @@ namespace ChildrenCalc
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StartForm());
+            Application.Run(new Statistic());
         }
     }
 }
